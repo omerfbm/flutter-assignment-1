@@ -1,3 +1,4 @@
+// Q10: Write a program that takes three numbers from the user and prints the greatest number & lowest number.
 void main() {
   int num1 = 10;
   int num2 = 20;
